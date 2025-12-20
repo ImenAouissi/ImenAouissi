@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Imen Aouissi
 
-<!--
-**ImenAouissi/ImenAouissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist and DevOps / Network Security Engineer based in Sousse, Tunisia.
 
-Here are some ideas to get you started:
+I have experience in:
+- Secure infrastructure design
+- Backend web development
+- Network and application security
+- Teaching and technical training (CCNA, Security, Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+### DevOps & Infrastructure
+- Docker, GitLab CI/CD
+- Linux (Ubuntu, Kali Linux)
+- Nginx, Apache
+- OVH Cloud
+- Monitoring: Grafana, Zabbix, NetData
+
+### Backend Development
+- Python: Flask, Django, FastAPI
+- Node.js: Express.js, NestJS
+- REST & SOAP APIs
+- Databases: PostgreSQL, MongoDB, SQL Server
+
+### Network & Security
+- TCP/IP, VLAN, VPN, SSL/TLS
+- Firewall, IDS/IPS, PfSense
+- Pentesting, OWASP
+- Reverse proxy, SSH, DNS
+
+---
+
+## 👩‍🏫 Teaching & Training Experience
+- CCNA Trainer
+- Network & Application Security
+- Operating Systems
+- Python, JavaScript, Node.js, FastAPI
+
+---
+
+## 💼 Professional Experience
+- IT Specialist – Matrixel Business
+- Software Developer – Relead
+- Web Developer – Funder
+- Trainer & Lecturer – IMSET, Forma Plus, Private High School
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/imen-aouissi/
+- Email: imenneaouissii@gmail.com
