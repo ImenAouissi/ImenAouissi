@@ -10,7 +10,7 @@ I have experience in:
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills
 
 ### DevOps & Infrastructure
 - Docker, GitLab CI/CD
